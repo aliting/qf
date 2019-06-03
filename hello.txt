@@ -7,3 +7,4 @@ WO SHI LILITING
 ceshi pull命令
 测试冲突解决  liliting001提交
 测试冲突解决 lilting提交的
+跨平台操作测试
