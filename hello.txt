@@ -4,3 +4,5 @@ ccccc  dev update
 cccc  master 
 eeeee lingyigekaifazhe`
 WO SHI LILITING
+ceshi pull命令
+
